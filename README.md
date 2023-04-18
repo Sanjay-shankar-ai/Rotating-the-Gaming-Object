@@ -36,6 +36,11 @@ To add our C# Script file to our selected object, click on the C# Script file an
 ### Start8:
 Stop
 
+## Submitted By:
+```
+Name: S.Sanjay
+Registered No: 212221230086
+```
 ## Program:
 ```
 using System.Collections;
